@@ -47,23 +47,9 @@ You NOW have an empty row at the bottom of your container. Select items and span
 
 
 
-[🔬 Results Details](https://github.com/DigitalCareerInstitute/UIB-layout-grid/actions)
+[🔬 Results Details](https://github.com/DCI-TrialLessons/TL-UIB-layout-grid/actions)
+[🐞 Tips on Debugging](https://github.com/DCI-EdTech/autograding-setup/wiki/How-to-work-with-CodeBuddy)
+[📢 Report Problem](https://docs.google.com/forms/d/e/1FAIpQLSfS8wPh6bCMTLF2wmjiE5_UhPiOEnubEwwPLN_M8zTCjx5qbg/viewform?usp=pp_url&entry.652569746=TL-UIB-layout-grid&entry.2115011968=https%3A%2F%2Fgithub.com%2FDCI-TrialLessons%2FTL-UIB-layout-grid)
 
-[📢 Give Feedback or Report Problem](https://docs.google.com/forms/d/e/1FAIpQLSfS8wPh6bCMTLF2wmjiE5_UhPiOEnubEwwPLN_M8zTCjx5qbg/viewform?usp=pp_url&entry.652569746=UIB-layout-grid&entry.2115011968=https%3A%2F%2Fgithub.com%2FDigitalCareerInstitute%2FUIB-layout-grid)
-
-### Debugging your code
-> [reading the test outputs](https://github.com/DCI-EdTech/autograding-setup/wiki/Reading-test-outputs)
-
-There are two ways to see why tasks might not be completed:
-#### 1. Running tests locally
-- Run `npm install`
-- Run `npm test` in the terminal. You will see where your solution differs from the expected result.
-
-#### 2. Inspecting the test output on GitHub
-- Go to the [Actions tab of your exercise repo](https://github.com/DigitalCareerInstitute/UIB-layout-grid/actions)
-- You will see a list of the test runs. Click on the topmost one.
-- Click on 'Autograding'
-- Expand the item 'Run DCI-EdTech/autograding-action@main'
-- Here you see all outputs from the test run
 
 [//]: # (autograding info end)
